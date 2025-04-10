@@ -34,7 +34,7 @@ public class Hello {
         System.out.println("-----------------------------------");
 
         System.out.println("A well-formed Java program has a main method with { and } braces.");
-        System.out.println("A System.out.println statement has ( and ) and usually a String that starts and ends with a \" character.");
+        System.out.println("A System.out.println statement has ( and ) and usually that starts and ends with a \" character.");
         System.out.println("(But we type \\\" instead!)");
         System.out.println("What is the difference between");
         System.out.println("a \' and a \" ? or between  a\" and a\"");
